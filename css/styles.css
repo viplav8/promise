@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     height: 100vh;
-    background-color: black; /* Default background */
+    background-color: blue; /* Default background */
     overflow: hidden; /* Prevent scrolling */
     display: flex;
     justify-content: center;
